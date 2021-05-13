@@ -1,2 +1,3 @@
 aloo
 carrot
+jeera
